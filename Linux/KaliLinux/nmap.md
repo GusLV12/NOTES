@@ -1,6 +1,6 @@
 # Nmap
 
-### Documentación
+## Documentación
 
 - [Guía de referencia de Nmap (Página de manual)](https://nmap.org/man/es/index.html)
 - [Nmap Summary (ESP) | HackTricks](https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-network/nmap-summary-esp)
@@ -14,6 +14,4 @@
 
 ### Ejemplo de Uso
 
-```bash
-nmap -p- -sVC -sC --open -sS -vvv -n -Pn 10.0.2.4
-```
+**`nmap -p- -sVC -sC --open -sS -vvv -n -Pn 10.0.2.4`**
