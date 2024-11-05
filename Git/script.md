@@ -22,15 +22,15 @@
 - **``pwd //Saber donde nos encontramos ubicados``**
 - **``cd //Movernos en los directorios (carpetas)``**
 - **``cd .. //Retrocedes``**
-- **``mkdir nombre_carpta//Crear nuevo directorio(carpeta)``**
+- **``mkdir nombre_carpta //Crear nuevo directorio(carpeta)``**
 - **``git init //Empezar un repositorio vacio``**
 - **``git remote add <nombre del repo> “pagina web”``**
 - **``ls -a //Muestra todo, incluso repositorios``**
 - **``code .//Abre el IDE``**
 - **``git status //Estado actual de nuestro repositorio``**
-- **``git add//añade los archivos que querramos``**
+- **``git add //añade los archivos que querramos``**
 - **``git add . //añade todos los archivos que querramos``**
-- **``git commit -m “Nombre”//Comprometer los cambios``**
+- **``git commit -m “Nombre” //Comprometer los cambios``**
 - **``rm Nombre_archivo //Eliminar archivo``**
 - **``git rm Nombre_archivo //Eliminar archivos mas rapidos (saltando un paso)``**
 - **``git restore Nombre_archivo //recuperas el archivo``**
@@ -41,7 +41,7 @@
 - **``git branch //Muestra rama``**
 - **``git branch <nombrerama> //Crea rama``**
 - **``git checkout -b nombre //Crear rama y nombre``**
-- **``git checkout <rama que quiero cambiar>//rama que quiero cambiar``**
+- **``git checkout <rama que quiero cambiar> //rama que quiero cambiar``**
 - **``cat nombre_archivo //Muestra el contenido del archivo``**
 - **``git merge Rama_que_tiene_contenido //Añadir los cambios de una rama a otra``**
 
